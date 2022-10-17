@@ -1,1 +1,1 @@
-# educational-project-evklid-lp
+# Это учебный проект создавался с использование flex
